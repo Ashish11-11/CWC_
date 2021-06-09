@@ -1,5 +1,6 @@
 package cwc_10;
 // An array of n distinct element is provided find the minimum number of swaps required to sort it.
+//I used Arrays.sort() predifined method as in question i am not debarred from using it.
 import java.util.*;
 
 public class Question_1 {
